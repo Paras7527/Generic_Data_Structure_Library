@@ -69,5 +69,5 @@ project-directory/
 |-- tests/                # Test cases for validating library functions
 |-- main.cpp              # Main file for running the library
 ```
-
+---
 
