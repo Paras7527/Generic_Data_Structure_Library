@@ -21,7 +21,7 @@ The project adheres to object-oriented design principles, ensuring modularity, e
    - Linked Lists (Singly, Doubly, Linear, Circular)
    - Stacks
    - Queues (Simple, Circular, Priority)
-   - 
+     
 3. **Fundamental Operations**
    - Insertion, Deletion, Traversal, and Searching for all supported structures.
 
