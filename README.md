@@ -1,4 +1,4 @@
-# Generalized Data Structure Library Documentation
+# 📂 Generalized Data Structure Library Documentation
 
 ## Project Overview
 
