@@ -1134,6 +1134,7 @@ int main()
     DoublyCLL <int>obj4;
     Stack <int>obj5;
     Queue <int>obj6;
+    SinglyLL <float>obj7;
 
     int iRet=0;
 
@@ -1201,5 +1202,17 @@ int main()
     obj6.Display();
     iRet=obj5.Count();
     cout<<"Number of Elements in the Queue:"<<iRet;
+
+
+    obj7.InsertFirst(51.35);
+    obj7.InsertFirst(21.35);
+    obj7.InsertFirst(11.23);
+
+    obj7.InsertLast(101.75);
+    obj7.InsertLast(111.42);
+    obj7.InsertLast(121.67);
+    obj7.Display();
+    iRet=obj7.Count();
+    cout<<"Number of Elements in the Singly Linear Linked List:"<<iRet;
     return 0;
 }
